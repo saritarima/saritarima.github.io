@@ -1,0 +1,40 @@
+body{
+
+	background-color: pink;
+	background-image:url(header.jpg);
+	background-size: cover;
+}
+.btn-primary{
+	background-color: blue
+}
+
+.btn-primary:hover{
+	background-color: white;
+	font-size: 2.4em
+}
+	.btn{
+		font-size: 2.2em;
+	}
+
+form{
+	
+	margin-left: 700px;
+	margin-top: 200px;
+	
+}
+
+h1 {
+	font-family: courier;
+  font-size: 3.6em;
+  text-align: center;
+
+  
+}
+
+p{
+	font-size: 2.4em;
+	font-family: courier;
+	font-weight: bold;
+ color: orange;
+ text-align: center;
+}
